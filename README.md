@@ -1,4 +1,4 @@
-# Design-of-Digital-Circuits-and-Systems
+# Design of Digital Circuits and Systems
 
 These are three labs of Design of Digital Circuits and Systems, Peking University 2025 Spring.
 
